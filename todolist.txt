@@ -1,0 +1,2 @@
+1. Gather photos and put them in folder
+2. Make a form for song requests for party and embed in page
