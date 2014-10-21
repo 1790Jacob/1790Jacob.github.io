@@ -2,19 +2,28 @@
 * {
 	padding: 0px;
 	margin: 0px;
-	background-color:#D8FFF8;
+	background-color: #2b3e50;
 }
 html {
 	height: 100%;
+	font-size: 100%
 }
 body {
-	font-family: 'Happy Monkey', cursive;
-	padding-top: 40px;
-	overflow: auto;
-	color: #4D4D4D;
+	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-top: 0em;
+	line-height: 1.5;
+	color: #ebebeb;
+
+
+}
+#inner{
+	display: block;
+}
+h1{
+	font-size: 80px;
 }
 a {
-	color: #000000;
+	color: #df691a;
 	text-decoration: none;
 }
 a:hover {
@@ -30,31 +39,18 @@ a:hover {
 	margin: 0 auto;
 	padding: 10px;
 }
-
-#title{
-	text-align: center;
-	font-size: 200%;
-}
-
-#date{
-	text-align: center;
-	font-size: 150%;
-}
-#navbar {
-	text-align: center;
-	display: table;
-	width: 60%;
-	height: 30%;
-	list-style-type: none;
-    margin: 0;
-    padding: 0;	
-}
-
-li {
-    float: left;
-	text-align: center;
-    display: inline-block;
-}
 #picture{
 	text-align: center;
+}
+
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  border-color: transparent;
+}
+.nav-tabs > li > a {
+  color: #ebebeb;
+}
+.nav-pills > li > a {
+  color: #ebebeb;
 }
