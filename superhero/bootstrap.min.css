@@ -5464,3 +5464,6 @@ label, .radio label, .checkbox label, .help-block {
 .popover-title {
     border: none
 }
+#map-container {
+    height: 300px 
+}
