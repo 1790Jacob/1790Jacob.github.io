@@ -70,7 +70,6 @@
                 </div>
             </div>
 
-            <!-- Headings -->
 
     <div class="row">
         <div class="col-lg-8">
@@ -79,12 +78,31 @@
 
                 <div class="bs-example">
 
-                    <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+                    <div id="photo-slideshow" class="carousel slide" data-interval="2000" data-ride="carousel">
                         <!-- Carousel indicators -->
                         <ol class="carousel-indicators">
-                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                            <li data-target="#myCarousel" data-slide-to="1"></li>
-                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="0" class="active"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="1"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="2"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="3"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="4"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="5"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="6"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="7"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="8"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="9"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="10"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="11"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="12"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="13"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="14"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="15"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="16"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="17"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="18"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="19"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="20"></li>
+                            <li data-target="#photo-slideshow" data-slide-to="21"></li>
                         </ol>   
                        <!-- Carousel items -->
                         <div class="carousel-inner">
@@ -269,14 +287,15 @@
 
         </div>
         <!-- Carousel nav -->
-        <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+        <a class="carousel-control left" href="#photo-slideshow" role="button" data-slide="prev"> &lsaquo;
             <span class="glyphicon glyphicon-chevron-left"></span>
         </a>
-        <a class="carousel-control right" href="#myCarousel" data-slide="next">
+        <a class="carousel-control right" href="#photo-slideshow" role="button" data-slide="next"> &lsaquo;
             <span class="glyphicon glyphicon-chevron-right"></span>
         </a>
+        </div>
     </div>
-</div>
+
 
 
                 <h3>What are your favorite things to do?</h3>
@@ -309,6 +328,15 @@
 			
 
 
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/jquery-1.7.2.min.js"><\/script>')</script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <script>
+          $(document).ready(function(){
+            $('.carousel').carousel();
+          });
+        </script>
 
         <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
         <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
