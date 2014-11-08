@@ -25,11 +25,11 @@
         margin: 20px;
     }
     </style>
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	
 		<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-		<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
-	<script type="text/javascript" src="engine2/jquery.js"></script>
+	<link rel="stylesheet" type="text/css" href="engine4/style.css" />
+	<script type="text/javascript" src="engine4/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
@@ -76,36 +76,42 @@
             </div>
             <div class="bs-component">
                 <p class="lead">Hi! My name is Jacob.</p>	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container2">
+		<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container4">
 	<div class="ws_images"><ul>
-		<li><img src="data2/images/08.29.14carter.139.jpg" alt="08.29.14-Carter.139" title="08.29.14-Carter.139" id="wows2_0"/></li>
-		<li><img src="data2/images/012.jpg" alt="012" title="012" id="wows2_1"/></li>
-		<li><img src="data2/images/barkans_in_aspen.jpg" alt="barkans_in_aspen" title="barkans_in_aspen" id="wows2_2"/></li>
-		<li><img src="data2/images/barkans_in_bermuda.jpg" alt="Barkans_in_Bermuda" title="Barkans_in_Bermuda" id="wows2_3"/></li>
-		<li><img src="data2/images/bruins_bench.jpg" alt="Bruins_Bench" title="Bruins_Bench" id="wows2_4"/></li>
-		<li><img src="data2/images/dinopajamas.jpg" alt="dinopajamas" title="dinopajamas" id="wows2_5"/></li>
-		<li><img src="data2/images/dogfish_head.jpg" alt="dogfish_head" title="dogfish_head" id="wows2_6"/></li>
-		<li><img src="data2/images/img_0129.jpg" alt="IMG_0129" title="IMG_0129" id="wows2_7"/></li>
-		<li><img src="data2/images/img_0145.jpg" alt="IMG_0145" title="IMG_0145" id="wows2_8"/></li>
-		<li><img src="data2/images/img_0337.jpg" alt="IMG_0337" title="IMG_0337" id="wows2_9"/></li>
-		<li><img src="data2/images/img_0466.jpg" alt="IMG_0466" title="IMG_0466" id="wows2_10"/></li>
-		<li><img src="data2/images/img_0871.jpg" alt="IMG_0871" title="IMG_0871" id="wows2_11"/></li>
-		<li><img src="data2/images/img_0950.jpg" alt="IMG_0950" title="IMG_0950" id="wows2_12"/></li>
-		<li><img src="data2/images/img_1475.jpg" alt="IMG_1475" title="IMG_1475" id="wows2_13"/></li>
-		<li><img src="data2/images/img_2000.jpg" alt="IMG_2000" title="IMG_2000" id="wows2_14"/></li>
-		<li><img src="data2/images/img_3000.jpg" alt="IMG_3000" title="IMG_3000" id="wows2_15"/></li>
-		<li><img src="data2/images/img_4000.jpg" alt="IMG_4000" title="IMG_4000" id="wows2_16"/></li>
-		<li><img src="data2/images/img_9900.jpg" alt="IMG_9900" title="IMG_9900" id="wows2_17"/></li>
-		<li><a href="http://wowslider.com"><img src="data2/images/jacob_in_nantucket.jpg" alt="wowslider" title="jacob_in_nantucket" id="wows2_18"/></a></li>
-		<li><img src="data2/images/redsoxwin_2004.jpg" alt="redsoxwin_2004" title="redsoxwin_2004" id="wows2_19"/></li>
+		<li><img src="data4/images/012.jpg" alt="012" title="012" id="wows4_0"/></li>
+		<li><img src="data4/images/08.29.14carter.139.jpg" alt="08.29.14-Carter.139" title="08.29.14-Carter.139" id="wows4_1"/></li>
+		<li><img src="data4/images/barkans_in_aspen.jpg" alt="barkans_in_aspen" title="barkans_in_aspen" id="wows4_2"/></li>
+		<li><img src="data4/images/barkans_in_bermuda.jpg" alt="Barkans_in_Bermuda" title="Barkans_in_Bermuda" id="wows4_3"/></li>
+		<li><img src="data4/images/bruins_bench.jpg" alt="Bruins_Bench" title="Bruins_Bench" id="wows4_4"/></li>
+		<li><img src="data4/images/dad_and_jacob.jpg" alt="dad and jacob" title="dad and jacob" id="wows4_5"/></li>
+		<li><img src="data4/images/dinopajamas.jpg" alt="dinopajamas" title="dinopajamas" id="wows4_6"/></li>
+		<li><img src="data4/images/dogfish_head.jpg" alt="dogfish_head" title="dogfish_head" id="wows4_7"/></li>
+		<li><img src="data4/images/img_0129.jpg" alt="IMG_0129" title="IMG_0129" id="wows4_8"/></li>
+		<li><img src="data4/images/img_0145.jpg" alt="IMG_0145" title="IMG_0145" id="wows4_9"/></li>
+		<li><img src="data4/images/img_0337.jpg" alt="IMG_0337" title="IMG_0337" id="wows4_10"/></li>
+		<li><img src="data4/images/img_0358.jpg" alt="IMG_0358" title="IMG_0358" id="wows4_11"/></li>
+		<li><img src="data4/images/img_0466.jpg" alt="IMG_0466" title="IMG_0466" id="wows4_12"/></li>
+		<li><img src="data4/images/img_0533.jpg" alt="IMG_0533" title="IMG_0533" id="wows4_13"/></li>
+		<li><img src="data4/images/img_0871.jpg" alt="IMG_0871" title="IMG_0871" id="wows4_14"/></li>
+		<li><img src="data4/images/img_0950.jpg" alt="IMG_0950" title="IMG_0950" id="wows4_15"/></li>
+		<li><img src="data4/images/img_1303.jpg" alt="IMG_1303" title="IMG_1303" id="wows4_16"/></li>
+		<li><img src="data4/images/img_1475.jpg" alt="IMG_1475" title="IMG_1475" id="wows4_17"/></li>
+		<li><img src="data4/images/img_2000.jpg" alt="IMG_2000" title="IMG_2000" id="wows4_18"/></li>
+		<li><img src="data4/images/img_3000.jpg" alt="IMG_3000" title="IMG_3000" id="wows4_19"/></li>
+		<li><img src="data4/images/img_4000.jpg" alt="IMG_4000" title="IMG_4000" id="wows4_20"/></li>
+		<li><img src="data4/images/img_9900.jpg" alt="IMG_9900" title="IMG_9900" id="wows4_21"/></li>
+		<li><img src="data4/images/jacob_in_nantucket.jpg" alt="jacob_in_nantucket" title="jacob_in_nantucket" id="wows4_22"/></li>
+		<li><a href="http://wowslider.com"><img src="data4/images/jacobfrontpage.jpg" alt="wowslider" title="jacobFrontPage" id="wows4_23"/></a></li>
+		<li><img src="data4/images/redsoxwin_2004.jpg" alt="redsoxwin_2004" title="redsoxwin_2004" id="wows4_24"/></li>
 	</ul></div>
 <span class="wsl"><a href="http://wowslider.com/vs">jquery slideshow</a> by WOWSlider.com v7.2m</span>
 	<div class="ws_shadow"></div>
 	</div>	
-	<script type="text/javascript" src="engine2/wowslider.js"></script>
-	<script type="text/javascript" src="engine2/script.js"></script>
-	<!-- End WOWSlider.com BODY section -->	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-		<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<script type="text/javascript" src="engine4/wowslider.js"></script>
+	<script type="text/javascript" src="engine4/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	
 	
 
 
