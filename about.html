@@ -21,6 +21,13 @@
     .carousel{
         margin-top: 20px;
     }
+    .carousel img{
+        display:block;
+        height:auto;
+        margin: auto;
+        max-width:150px;
+        max-height:150px;
+    }
     </style>
 </head>
 
@@ -75,7 +82,7 @@
 
                 <div class="bs-example">
 
-                    <div id="photo-slideshow" class="carousel slide" data-interval="2000" data-ritde="carousel">
+                    <div id="photo-slideshow" class="carousel slide container" data-interval="2000" data-ritde="carousel" style="margin: 0 auto">
                         <!-- Carousel indicators -->
                         <ol class="carousel-indicators">
                             <li data-target="#photo-slideshow" data-slide-to="0" class="active"></li>
