@@ -5686,6 +5686,8 @@ button.close {
   position: relative;
   overflow: hidden;
   width: 100%;
+  min-height:500px;
+  height:500px;
 }
 .carousel-inner > .item {
   display: none;
@@ -5693,10 +5695,16 @@ button.close {
   -webkit-transition: 0.6s ease-in-out left;
   -o-transition: 0.6s ease-in-out left;
   transition: 0.6s ease-in-out left;
+   min-height:500px;
+  height:500px;
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   line-height: 1;
+min-width: 100%;
+min-height: 100%;
+width:100%;
+height:100%;
 }
 .carousel-inner > .active,
 .carousel-inner > .next,
