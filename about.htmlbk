@@ -30,9 +30,8 @@
     }
     </style>
 	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-		<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine2/style.css" />
-	<script type="text/javascript" src="engine2/jquery.js"></script>
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+	<script type="text/javascript" src="engine1/jquery.js"></script>
 	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
@@ -87,42 +86,41 @@
                 <div class="bs-example">
 
                     <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-    	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container2">
-	<div class="ws_images"><ul>
-		<li><img src="data2/images/1.jpg" alt="1" title="1" id="wows2_0"/></li>
-		<li><img src="data2/images/10.jpg" alt="10" title="10" id="wows2_1"/></li>
-		<li><img src="data2/images/11.jpg" alt="11" title="11" id="wows2_2"/></li>
-		<li><img src="data2/images/12.jpg" alt="12" title="12" id="wows2_3"/></li>
-		<li><img src="data2/images/13.jpg" alt="13" title="13" id="wows2_4"/></li>
-		<li><img src="data2/images/14.jpg" alt="14" title="14" id="wows2_5"/></li>
-		<li><img src="data2/images/15.jpg" alt="15" title="15" id="wows2_6"/></li>
-		<li><img src="data2/images/16.jpg" alt="16" title="16" id="wows2_7"/></li>
-		<li><img src="data2/images/17.jpg" alt="17" title="17" id="wows2_8"/></li>
-		<li><img src="data2/images/18.jpg" alt="18" title="18" id="wows2_9"/></li>
-		<li><img src="data2/images/19.jpg" alt="19" title="19" id="wows2_10"/></li>
-		<li><img src="data2/images/2.jpg" alt="2" title="2" id="wows2_11"/></li>
-		<li><img src="data2/images/20.jpg" alt="20" title="20" id="wows2_12"/></li>
-		<li><img src="data2/images/21.jpg" alt="21" title="21" id="wows2_13"/></li>
-		<li><img src="data2/images/22.jpg" alt="22" title="22" id="wows2_14"/></li>
-		<li><img src="data2/images/23.jpg" alt="23" title="23" id="wows2_15"/></li>
-		<li><img src="data2/images/3.jpg" alt="3" title="3" id="wows2_16"/></li>
-		<li><img src="data2/images/4.jpg" alt="4" title="4" id="wows2_17"/></li>
-		<li><img src="data2/images/5.jpg" alt="5" title="5" id="wows2_18"/></li>
-		<li><img src="data2/images/6.jpg" alt="6" title="6" id="wows2_19"/></li>
-		<li><img src="data2/images/7.jpg" alt="7" title="7" id="wows2_20"/></li>
-		<li><img src="data2/images/8.jpg" alt="8" title="8" id="wows2_21"/></li>
-		<li><img src="data2/images/9.jpg" alt="9" title="9" id="wows2_22"/></li>
-		<li><img src="data2/images/img_0871.jpg" alt="IMG_0871" title="IMG_0871" id="wows2_23"/></li>
-		<li><a href="http://wowslider.com"><img src="data2/images/jacobfrontpage.jpg" alt="wowslider" title="jacobFrontPage" id="wows2_24"/></a></li>
-		<li><img src="data2/images/rsz_082914carter139.jpg" alt="rsz_082914-carter139" title="rsz_082914-carter139" id="wows2_25"/></li>
-	</ul></div>
+    <div id="wowslider-container1">
+    <div class="ws_images"><ul>
+        <li><img src="data1/images/1.jpg" alt="1" title="1" id="wows1_0"/></li>
+        <li><img src="data1/images/10.jpg" alt="10" title="10" id="wows1_1"/></li>
+        <li><img src="data1/images/11.jpg" alt="11" title="11" id="wows1_2"/></li>
+        <li><img src="data1/images/12.jpg" alt="12" title="12" id="wows1_3"/></li>
+        <li><img src="data1/images/13.jpg" alt="13" title="13" id="wows1_4"/></li>
+        <li><img src="data1/images/14.jpg" alt="14" title="14" id="wows1_5"/></li>
+        <li><img src="data1/images/15.jpg" alt="15" title="15" id="wows1_6"/></li>
+        <li><img src="data1/images/16.jpg" alt="16" title="16" id="wows1_7"/></li>
+        <li><img src="data1/images/17.jpg" alt="17" title="17" id="wows1_8"/></li>
+        <li><img src="data1/images/18.jpg" alt="18" title="18" id="wows1_9"/></li>
+        <li><img src="data1/images/19.jpg" alt="19" title="19" id="wows1_10"/></li>
+        <li><img src="data1/images/2.jpg" alt="2" title="2" id="wows1_11"/></li>
+        <li><img src="data1/images/20.jpg" alt="20" title="20" id="wows1_12"/></li>
+        <li><img src="data1/images/21.jpg" alt="21" title="21" id="wows1_13"/></li>
+        <li><img src="data1/images/22.jpg" alt="22" title="22" id="wows1_14"/></li>
+        <li><img src="data1/images/23.jpg" alt="23" title="23" id="wows1_15"/></li>
+        <li><img src="data1/images/3.jpg" alt="3" title="3" id="wows1_16"/></li>
+        <li><img src="data1/images/4.jpg" alt="4" title="4" id="wows1_17"/></li>
+        <li><img src="data1/images/5.jpg" alt="5" title="5" id="wows1_18"/></li>
+        <li><img src="data1/images/6.jpg" alt="6" title="6" id="wows1_19"/></li>
+        <li><img src="data1/images/7.jpg" alt="7" title="7" id="wows1_20"/></li>
+        <li><img src="data1/images/8.jpg" alt="8" title="8" id="wows1_21"/></li>
+        <li><img src="data1/images/9.jpg" alt="9" title="9" id="wows1_22"/></li>
+        <li><img src="data1/images/img_0871.jpg" alt="IMG_0871" title="IMG_0871" id="wows1_23"/></li>
+        <li><a href="http://wowslider.com"><img src="data1/images/jacobfrontpage.jpg" alt="wowslider" title="jacobFrontPage" id="wows1_24"/></a></li>
+        <li><img src="data1/images/rsz_082914carter139.jpg" alt="rsz_082914-carter139" title="rsz_082914-carter139" id="wows1_25"/></li>
+    </ul></div>
 <span class="wsl"><a href="http://wowslider.com/vs">jquery slideshow</a> by WOWSlider.com v7.2m</span>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine2/wowslider.js"></script>
-	<script type="text/javascript" src="engine2/script.js"></script>
-	<!-- End WOWSlider.com BODY section -->
+    <div class="ws_shadow"></div>
+    </div>  
+    <script type="text/javascript" src="engine1/wowslider.js"></script>
+    <script type="text/javascript" src="engine1/script.js"></script>
+    <!-- End WOWSlider.com BODY section -->
 
 
                     
